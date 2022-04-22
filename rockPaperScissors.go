@@ -56,7 +56,7 @@ func getWinner(user Action, comp Action) {
 		fmt.Println("Sad way to lose friend.")
 	} else if user == comp {
 		fmt.Println("Tie. Break it up! Break it up!")
-	} else if checkCompWin(user, comp) {
+	} else if checkUserWin(user, comp) {
 		fmt.Println("You won!")
 	} else {
 		fmt.Println("Sorry. That dang computer is too good.")
