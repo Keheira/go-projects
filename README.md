@@ -15,8 +15,8 @@ Just printing `hello world` to the terminal
 ### Input.go
 Take in two different input types and print them to the terminal
 
-## rockPaperScissors.go
+### rockPaperScissors.go
 Play Rock, Paper, Scissors against "the computer"
 
-## tictactoe.go
+### tictactoe.go
 Play Tic-Tac-Toe against "the computer"
